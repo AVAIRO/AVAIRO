@@ -11,14 +11,7 @@ how to contact me  [`Whatsapp`](https://wa.me/48888888880?text=yo) or [`Gmail`](
 
 </br>
 
-**This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
 **My GitHub Stats:**
