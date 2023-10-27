@@ -6,9 +6,8 @@
 </p>
 
 
--
 
-how to contact me  [`Whatsapp`](https://wa.me/48888888880?text=yo) or [`Gmail`](deavairoaswin@gmail.com)
+Contact me  [`Whatsapp`](https://wa.me/48888888880?text=yo) or [`Gmail`](deavairoaswin@gmail.com)
 
 </br>
 
