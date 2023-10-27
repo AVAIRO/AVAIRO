@@ -12,11 +12,3 @@ how to contact me  [`Whatsapp`](https://wa.me/48888888880?text=yo) or [`Gmail`](
 </br>
 
 
-
-
-**My GitHub Stats:**
-
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=avairo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-</p>
