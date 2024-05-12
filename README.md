@@ -12,4 +12,4 @@ Character.prototype.bio = function() {
 Character.prototype.interests = ['programming', 'watching anime', 'playing football', 'hanging out with friends'];
 const aswin = new Character('Aswin', 'BVB Dortmund', 'playing football');
 ```
-Feel free to connect with me on [Telegram](https://t.me/makewasocket)!
+Feel free to connect with me on [Telegram](https://t.me/makewasocket) !
