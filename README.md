@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there
+ Hi there
 
 ```javascript
 function Character(name, favClub, hobby) {
