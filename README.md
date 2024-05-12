@@ -16,7 +16,6 @@ Character.prototype.bio = function() {
 
 Character.prototype.interests = ['programming', 'watching anime', 'playing football', 'hanging out with friends'];
 
-const aswin = new Character('Aswin', 'BVB Dortmund', 'playing football');
+const aswin = new Character('Aswin', 'BVB Dortmund', 'playing football');```
 
-console.log(aswin.bio());
-console.log(`My interests include: ${aswin.interests.join(', ')}.`);
+### <samp>&gt; •how to reach me:<a href="https://t.me/makewasocket" target="_blank">click here</a>
