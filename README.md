@@ -1,4 +1,4 @@
-https://github.com/avairo#hey-there
+### <samp>&gt; Hi there 
 
 ```javascript
 function Character(name, favClub, hobby) {
