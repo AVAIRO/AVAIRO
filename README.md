@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm <a href="https://t.me/makewasocket" target="_blank">aswin</a>
+### <samp>&gt; Hi there
 
 ```javascript
 function Character(name, favClub, hobby) {
