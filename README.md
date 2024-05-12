@@ -20,11 +20,3 @@ const aswin = new Character('Aswin', 'BVB Dortmund', 'playing football');
 
 console.log(aswin.bio());
 console.log(`My interests include: ${aswin.interests.join(', ')}.`);
-
-
-
-Contact me  [`Telegram`](https://t.me/makewasocket) or [`Gmail`](deavairoaswin@gmail.com)
-
-</br>
-
-
