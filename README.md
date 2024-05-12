@@ -1,13 +1,24 @@
-### <samp>&gt; Hi there, I'm <a href="https://wa.me/48888888880" target="_blank">avairo</a>
+### <samp>&gt; Hi there, I'm <a href="https://t.me/makewasocket" target="_blank">aswin</a>
 
-<p align="center">
-<img src="https://media.tenor.com/UbQBW6aVISQAAAAC/spy-x-family-anya.gif" height="280" width="498" style="margin-left: auto;margin-right: auto;display: block;">
+function Character(name, favClub, hobby) {
+  this.name = name;
+  this.favClub = favClub;
+  this.hobby = hobby;
+}
+Character.prototype.bio = function() {
+  return `Hi there, I'm ${this.name}, a fan of ${this.favClub} and I enjoy ${this.hobby}!`;
+}
 
-</p>
+Character.prototype.interests = ['programming', 'watching anime', 'playing football1', 'hanging out with friends'];
+
+const aswin = new Character('Aswin', 'BVB Dortmund, 'playing football');
+
+console.log(aswin.bio());
+console.log(`My interests include: ${aswin.interests.join(', ')}.`);
 
 
 
-Contact me  [`Whatsapp`](https://wa.me/48888888880?text=yo) or [`Gmail`](deavairoaswin@gmail.com)
+Contact me  [`Telegram`](https://t.me/makewasocket) or [`Gmail`](deavairoaswin@gmail.com)
 
 </br>
 
