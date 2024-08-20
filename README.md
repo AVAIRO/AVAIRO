@@ -10,4 +10,4 @@ Character.prototype.bio = function() {
 }
 const aswin = new Character('Aswin');
 ```
-Feel free to connect with me on [Telegram](https://t.me/makewasocket) !
+Contact [Telegram](https://t.me/makewasocket) !
